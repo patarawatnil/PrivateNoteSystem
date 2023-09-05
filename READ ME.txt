@@ -1,0 +1,19 @@
+ITE-428 PROJECT : Private Note System (ระบบจดบันทึกส่วนตัว)
+โปรแกรมนี้เป็นส่วนหนึ่งของวิชา ITE-428 สอนโดยอาจารย์อดิศักดิ์ เสือสมิง (adisak@tni.ac.th) ภาคการศึกษาที่ 2/2652
+จัดทำโดย : 60121027-1 นายภัทรวัต นิลธิราช (Email : ni.patarawut_st@tni.ac.th, Tel. 091-60-238 )
+สาขาเทคโนโลยีสารสนเทศ คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีไทย-ญี่ปุ่น
+
+Test Account
+Username : qwerty
+Password : 123456
+
+Project Interpreter
+– Python 3.8
+
+Package
+– PtQt5 5.14.1
+– PtQt5 12.7.1
+– dnspython 1.16.0
+– pip 20.0.2
+– pymongo 3.10.1
+– setuptool 40.8.0
